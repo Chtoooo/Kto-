@@ -1,1 +1,45 @@
+1) Какие настройки хранит файл git config --global 
 
+1. Админа 
+2. Пользователя 
+3. Саппорта
+
+2) Как правильно указать почту при указании пользователя ?
+
+1. git config --global user.email johndoe@example.com 
+2. git config --global email johndoe@example.com 
+3. git --global user.email johndoe@example.com
+
+3) С помощью какой конфигурации можно проверить правильность введенных данных 
+
+1. git config list 
+2. git --list 
+3. git config --list
+
+4) Как правильно клонировать репозиторий?
+
+1. git clone <url> 
+2. git clone <repoz.zip> 
+3. git clone <repoz name> 
+4. git clone <user github>
+
+5) Как добавить содержимое рабочего каталога в индекс?
+
+1. git config add 
+2. git add 
+3. gid diff 
+4. git commit
+
+6) Как узнать состояние файлов?
+
+1. git config list 
+2. git commit status 
+3. git status 
+4. git diff
+
+7)Как сделать снимок текущего состояния изменений?
+
+1. git init
+2. git add status
+3. git diff
+4. git commit
